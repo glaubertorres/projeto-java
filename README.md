@@ -1,2 +1,2 @@
 # projeto-java
-Projeto de encerramento do 1
+Projeto de encerramento do primeiro bloco do bootcamp da Generation Brasil
